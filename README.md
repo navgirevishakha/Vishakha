@@ -17,19 +17,17 @@
   - Personal Portfolio Website (HTML/CSS)
 
 ---
+### Tech Stack
 
-### Currently Exploring:
-- Full-stack development  
-- Open source contributions  
-- Internship opportunities  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Looking to Learn:
-- MERN stack  
-- Flutter  
-- Cloud technologies  
 
 ---
-
 ### Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/navgire-vishakha-985a49239)  
