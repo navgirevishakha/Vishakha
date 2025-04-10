@@ -2,7 +2,7 @@
 
 Hello world, this is my profile 
 
-<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADB5&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)</center>
+<[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADB5&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 
 About Me
 
