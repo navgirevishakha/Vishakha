@@ -1,5 +1,4 @@
-# Vishakha
-Hello world, this is my profile 
+ 
 <h2 align="center">Hi there, I'm Vishakha!</h2>
 <p align="center">🚀 A Computer Engineering student who codes, learns, and creates with curiosity!</p>
 
