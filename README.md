@@ -1,8 +1,8 @@
-#i'm Vishakha,
+#I'm Vishakha,
 
 Hello world, this is my profile 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADB5&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+          [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADB5&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 
 About Me
 
