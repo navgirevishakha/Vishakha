@@ -1,6 +1,8 @@
-# Vishakha
+#Hi,i'm Vishakha
 Hello world, this is my profile 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADB5&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+
 About Me
 
 🎓 Currently: 3rd-year Computer Engineering student at Godavari College of Engineering, Jalgaon
